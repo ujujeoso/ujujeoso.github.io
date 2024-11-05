@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujujeoso.github.io/dNS/sitemap_index.txt
+Sitemap: https://ujujeoso.github.io/kIp/sitemap_index.txt
+Sitemap: https://ujujeoso.github.io/kNd/sitemap_index.txt
+Sitemap: https://ujujeoso.github.io/uBF/sitemap_index.txt
